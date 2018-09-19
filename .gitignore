@@ -1,0 +1,23 @@
+# Things that should not on the repo
+
+.git/
+
+# Distribution / packaging
+env/
+build/
+dist/
+downloads/
+lib/
+
+# Unit Test
+
+# dotenv
+.env
+
+# Virtualenv
+.venv
+venv/
+ENV/
+
+# Ignore file for my folders
+db.sqlite3
